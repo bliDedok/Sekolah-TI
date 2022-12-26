@@ -2,6 +2,7 @@ Rencana Konten Sekolah-TI
 
 -Mencari Selebgram
 *Memajukan sekolah
+  ^tidak usah
 -Sosialisasi
--Goyang tik tok
 -Edukasi
+  ^Mensejahterakan masyarakat
