@@ -2,6 +2,7 @@ Rencana Konten Sekolah-TI
 
 -Mencari Selebgram
   ^Supaya murid tertarik sekolah di TI
+  ^Murid jadi adem
 *Memajukan sekolah
   ^murid jadi banyak yang sekolah
 -Sosialisasi
