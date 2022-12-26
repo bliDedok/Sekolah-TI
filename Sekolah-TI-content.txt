@@ -6,6 +6,5 @@ Rencana Konten Sekolah-TI
 *Memajukan sekolah
   ^murid jadi banyak yang sekolah
 -Sosialisasi
--Goyang tik tok
 -Edukasi
--Kick guru baperan
+^Mensejahterakan masyarakat
