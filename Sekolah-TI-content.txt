@@ -1,7 +1,10 @@
 Rencana Konten Sekolah-TI
 
 -Mencari Selebgram
+  ^Supaya murid tertarik sekolah di TI
 *Memajukan sekolah
+  ^murid jadi banyak yang sekolah
 -Sosialisasi
 -Goyang tik tok
 -Edukasi
+-Kick guru baperan
